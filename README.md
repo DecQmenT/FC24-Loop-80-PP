@@ -3,4 +3,6 @@
 pip install pyautogui pynput
 ```
 # modify
-run findCoordinate.py to find your x,y on your screen then adjust the autoclick.py file
+To find your x and y on the screen, run findCoordinate.py. Then, modify the autoclick.py file.
+# how to use 
+Run autoclick.py then press q to autoclick 1 loop
