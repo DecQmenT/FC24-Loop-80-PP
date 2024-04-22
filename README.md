@@ -1,4 +1,5 @@
 # 📝 installation
+clone this repo
 ```
 pip install pyautogui pynput
 ```
