@@ -1,5 +1,7 @@
 # 📝 installation
-clone this repo
+Clone this repo
+
+⬇️Run this code in your terminal⬇️
 ```
 pip install pyautogui pynput
 ```
