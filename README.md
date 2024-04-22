@@ -1,2 +1,6 @@
-# FC24-Loop-80-PP
-autoclick for fc24
+# installation
+```
+pip install pyautogui pynput
+```
+# modify
+  use 
